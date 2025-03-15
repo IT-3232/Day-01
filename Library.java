@@ -1,8 +1,8 @@
 public class Library {
     
    public static void main(String[] args){
-        PrintedBook printedBook = new PrintedBook("The Great Gatsby", "F. Scott Fitzgerald", 218);
-        EBooks ebook = new EBooks("1984", "George Orwell",  "PDF");
+        PrintedBook printedBook = new PrintedBook("The Lord Of The Rings", "F. Scott Fitzgerald", 218);
+        EBooks ebook = new EBooks("Harry Potter", "J K Rollings",  "PDF");
         AudioBook audiobook = new AudioBook("To Kill a Mockingbird", "Harper Lee",  12.5);
 
         System.out.println("Printed Book: " + printedBook.getInfo());
