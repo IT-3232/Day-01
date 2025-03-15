@@ -27,6 +27,6 @@ multible products like fruits, vegetables, grocery, etc..
 	- display the avilabe products like price, name, 
 	quantity
 	
-Google class room code:whuh2vcx
+
 	
 
